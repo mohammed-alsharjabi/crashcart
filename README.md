@@ -1,17 +1,30 @@
-# fly_flex
+# CrashCart — Legacy FlyFlex Prototype
 
-A new Flutter project.
+> **Repository status:** Legacy / superseded
 
-## Getting Started
+This repository contains an earlier snapshot of the project that later became **FlyFlex**, a Flutter marketplace concept for discovering discounted unsold airline seats.
 
-This project is a starting point for a Flutter application.
+The maintained and professionally documented version is available here:
 
-A few resources to get you started if this is your first Flutter project:
+**[View the canonical FlyFlex repository](https://github.com/mohammed-alsharjabi/flyflex)**
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Why this repository remains public
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It is kept as part of the project's development history. It should not be considered the current implementation or the primary portfolio version.
+
+## Current project
+
+The canonical FlyFlex repository demonstrates:
+
+- Feature-first Flutter architecture
+- Flutter BLoC / Cubit state management
+- GetIt dependency injection
+- GoRouter navigation
+- Arabic and English localization
+- Responsive RTL and LTR interfaces
+- Flight discovery, seat selection, payment, bookings, and tickets flows
+
+## Author
+
+**Mohammed Alsharjabi**  
+Flutter Developer and Founder of [TechnoVizen](https://www.technovizen.com)
